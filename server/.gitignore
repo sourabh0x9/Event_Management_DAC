@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# Compiled binary addons (e.g. from node-gyp)
+build/
+build/Release
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+
